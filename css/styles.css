@@ -1,0 +1,20 @@
+h1 {
+  color:red;
+  text-align: left;
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 30px;
+}
